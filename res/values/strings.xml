@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AirInquiry</string>
+    <string name="about">About</string>
+    <string name="city">cities</string>
+    <string name="about_message">
+        关于AirInquiry\n
+        版本: 1.0\n
+        版权：092113104 (C) 2016.6
+    </string>
+</resources>
